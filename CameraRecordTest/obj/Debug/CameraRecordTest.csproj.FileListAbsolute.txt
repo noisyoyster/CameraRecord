@@ -1,0 +1,9 @@
+c:\users\bas\documents\visual studio 2012\Projects\CameraRecord\CameraRecordTest\bin\Debug\CameraRecordTest.dll
+c:\users\bas\documents\visual studio 2012\Projects\CameraRecord\CameraRecordTest\bin\Debug\CameraRecordTest.pdb
+c:\users\bas\documents\visual studio 2012\Projects\CameraRecord\CameraRecordTest\bin\Debug\CameraRecord.dll
+c:\users\bas\documents\visual studio 2012\Projects\CameraRecord\CameraRecordTest\bin\Debug\nunit.framework.dll
+c:\users\bas\documents\visual studio 2012\Projects\CameraRecord\CameraRecordTest\bin\Debug\CameraRecord.pdb
+c:\users\bas\documents\visual studio 2012\Projects\CameraRecord\CameraRecordTest\bin\Debug\nunit.framework.xml
+c:\users\bas\documents\visual studio 2012\Projects\CameraRecord\CameraRecordTest\obj\Debug\CameraRecordTest.csprojResolveAssemblyReference.cache
+c:\users\bas\documents\visual studio 2012\Projects\CameraRecord\CameraRecordTest\obj\Debug\CameraRecordTest.dll
+c:\users\bas\documents\visual studio 2012\Projects\CameraRecord\CameraRecordTest\obj\Debug\CameraRecordTest.pdb
